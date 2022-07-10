@@ -19,7 +19,7 @@ export default function Header() {
         <Top>
             <Breadcrumbs />
             <TopLinks>
-                <Feed />
+                {/* <Feed /> */}
                 <DarkModeToggle />
             </TopLinks>
         </Top>
