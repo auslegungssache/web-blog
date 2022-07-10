@@ -1,5 +1,5 @@
 import {LightImg} from "../components/Projects/Lightbox";
-import {Demos, LinksStyle, PreviewStyle, ProjectListing} from "./projectListing";
+import {Demos, LinksStyle, PreviewStyle, ProjectListing} from "../components/Projects/Listing";
 
 export default function Projects() {
     return <div className="projects">
